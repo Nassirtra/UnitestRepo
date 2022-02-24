@@ -1,0 +1,10 @@
+C:\APPS\archilog\src\ArchiLog\Archi.Library\bin\Debug\netcoreapp3.1\Archi.Library.deps.json
+C:\APPS\archilog\src\ArchiLog\Archi.Library\bin\Debug\netcoreapp3.1\Archi.Library.dll
+C:\APPS\archilog\src\ArchiLog\Archi.Library\bin\Debug\netcoreapp3.1\Archi.Library.pdb
+C:\APPS\archilog\src\ArchiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.csproj.AssemblyReference.cache
+C:\APPS\archilog\src\ArchiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\APPS\archilog\src\ArchiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.AssemblyInfoInputs.cache
+C:\APPS\archilog\src\ArchiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.AssemblyInfo.cs
+C:\APPS\archilog\src\ArchiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.csproj.CoreCompileInputs.cache
+C:\APPS\archilog\src\ArchiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.dll
+C:\APPS\archilog\src\ArchiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.pdb
